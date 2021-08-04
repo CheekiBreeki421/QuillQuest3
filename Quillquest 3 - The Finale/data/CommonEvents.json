@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Let's call up a friend to help out!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Uhhhh..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["I can only remember RSI's number..."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Well, let's give it a shot!"]},{"code":101,"indent":0,"parameters":["Players",7,0,2]},{"code":401,"indent":0,"parameters":["Hey hey! I'm here now, let's go beat up "]},{"code":401,"indent":0,"parameters":["some teachers!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["Yes! It worked!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["The phone's out of charge though."]},{"code":129,"indent":0,"parameters":[5,0,false]},{"code":0,"indent":0,"parameters":[]}],"name":"Recruit Party Member 1","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"slime pop?","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
